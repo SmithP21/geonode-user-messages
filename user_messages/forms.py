@@ -7,7 +7,7 @@ from django.utils.translation import ugettext_lazy as _
 
 from user_messages.models import Message
 
-from geonode.groups.models import GroupProfile
+from mygeonode.groups.models import GroupProfile
 
 
 class NewMessageForm(forms.Form):

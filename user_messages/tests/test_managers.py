@@ -4,7 +4,7 @@ from django.contrib.auth import get_user_model
 from django.test import TestCase
 import mock
 
-from geonode.groups.models import GroupProfile
+from mygeonode.groups.models import GroupProfile
 
 from user_messages import models
 from user_messages import managers

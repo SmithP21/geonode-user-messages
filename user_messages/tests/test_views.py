@@ -7,7 +7,7 @@ from django.http.request import QueryDict
 from django.test import TestCase
 import mock
 
-from geonode.groups.models import GroupProfile
+from mygeonode.groups.models import GroupProfile
 
 from user_messages import models
 

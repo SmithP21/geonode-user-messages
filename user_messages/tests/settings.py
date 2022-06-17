@@ -53,7 +53,7 @@ INSTALLED_APPS = [
     'django.contrib.contenttypes',
     "user_messages",
     'guardian',
-    'geonode.groups',
+    'mygeonode.groups',
     "taggit",
 ]
 
